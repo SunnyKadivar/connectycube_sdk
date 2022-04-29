@@ -1,0 +1,15 @@
+name: connectycube_sdk_example
+description: Demonstrates how to use the connectycube_sdk lib.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  connectycube_sdk:
+    path: ../
+
+dev_dependencies:
+
+flutter:
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
