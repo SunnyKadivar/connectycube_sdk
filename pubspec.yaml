@@ -14,9 +14,9 @@ dependencies:
 
   http: ^0.12.2               # To performing REST queries
   http_parser: ^3.1.4
-  crypto: ^2.1.5              # For generation sha signatures
+  crypto:                    # For generation sha signatures
   package_info: ^0.4.3        # To get SDK version in code
-  uuid: ^2.2.2                # To generate unique IDs
+  uuid: 3.0.1               # To generate unique IDs
   intl: 0.17.0               # For support custom date formats
   mime: ^0.9.7                # To get mime type of file
   xmpp_stone:                 # XMPP protocol implementation
